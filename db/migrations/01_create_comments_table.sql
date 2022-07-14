@@ -1,0 +1,1 @@
+CREATE TABLE comments(id SERIAL PRIMARY KEY, name VARCHAR(25), comment VARCHAR(300));
